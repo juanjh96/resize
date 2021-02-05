@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:rezize_tablet/resize.dart';
+import 'package:resize_tablet/resize.dart';
 
 void main() => runApp(
       MyApp(),
